@@ -35,8 +35,6 @@ TERM_CMD = [
     '--class', CLASS,
     '--name', NAME,
     '--hide-menubar',
-    '-x',
-    'nvim',
 ]
 GTERM_PASSTHROUGH_OPTIONS = [
     '--full-screen',
